@@ -1,0 +1,86 @@
+body{background-color:darkslategray;
+text-align: center;}
+
+.upper{width: 700px;
+height: 400px;
+border: 10px solid #fff;
+padding-top: 40px;
+padding-bottom: 50px;
+position: relative;
+left: 400px;
+top: 110px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+background-image: url("buildings.png");
+}
+h1{text-shadow: 3px 0 #dbedf3;}
+
+.lower{width: 800px;
+height: 30px;
+border: 10px solid  #fff;
+position: relative;
+left: 350px;
+top: 110px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;}
+
+.first-button{padding-left: 50px;
+   padding-right: 40px;
+   padding-left: 5px;
+   border-radius: 8px;
+  
+}
+
+.first-class{padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 5px;
+    position: relative;
+    left: 40px;
+    border-radius: 8px;
+    
+}
+
+
+.second-button{padding-left: 50px;
+    padding-right: 40px;
+    position: relative;
+     top: 20px;   
+     padding-left: 5px;
+     border-radius: 8px;
+ }
+ 
+ .second-class{padding-left: 50px;
+     padding-top: 20px;
+     padding-right: 5px;
+     position: relative;
+     border-radius: 8px;
+     left: 40px;
+ }
+
+ .lower-text{position: relative;
+top: 10px;}
+ 
+.img{display: inline;
+}
+.vv{padding: 10px 10px 0 10px;}
+.login1{background-color:purple;
+width: 300px;
+height: 40px;
+border-radius:10px;
+padding: 6px 0 6px 0;
+position: relative;
+top: 10px;
+margin-bottom: 20px;}
+
+.login2{background-color:#fff;
+    color:purple;
+    width: 300px;
+    height: 40px;
+    border-radius:10px;
+    padding: 6px 0 6px 0;
+    position: relative;
+    top: 10px;}
+
+p{display: inline;
+position: relative;
+top: 30px;}
